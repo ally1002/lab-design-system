@@ -58,7 +58,7 @@ export function App() {
           <a href="#" className="text-gray-400 underline">Esqueceu sua senha?</a>
         </Text>
         <Text size="sm" asChild>
-          <a href="#" className="text-gray-400 underline">Não possui conta? Crie uma agora!?</a>
+          <a href="#" className="text-gray-400 underline">Não possui conta? Crie uma agora!!</a>
         </Text>
       </footer>
     </div>
